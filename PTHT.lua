@@ -1,1 +1,3 @@
-P
+allowedUserIds = {
+    "633353",
+}
